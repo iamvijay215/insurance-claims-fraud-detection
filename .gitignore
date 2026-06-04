@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# Environment
+.env
+
+# Large Data Files
+*.csv
+
+# Generated Files
+*.png
